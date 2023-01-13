@@ -1,3 +1,3 @@
 PORT=8080
 JWT_SECRET=tasksapi
-MONGO_URL='mongodb+srv://yossry:yossry12345@cluster0.xfd2aqq.mongodb.net/tasks?retryWrites=true&w=majority'
+MONGO_URL='mongodb+srv://khalid:JR@13@jr@cluster0.ld2ssqb.mongodb.net/?retryWrites=true&w=majority'
